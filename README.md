@@ -3,7 +3,7 @@
 Problem statement :
 In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images. The Total number of images available for training is 8,000 and final testing is done on seperate 2,000 images.
 
-# NOTE: YOU CAN DOWNLOAD THE DATASET FROM https://www.superdatascience.com/pages/deep-learning AND CLICK ON THE LINK BELOW Part 2: Convolutional Neural Networks (CNN)
+NOTE: YOU CAN DOWNLOAD THE DATASET FROM https://www.superdatascience.com/pages/deep-learning AND CLICK ON THE LINK BELOW Part 2: Convolutional Neural Networks (CNN)
 Datasets & Templates:
 <DATASET_LINK_HERE>
 
