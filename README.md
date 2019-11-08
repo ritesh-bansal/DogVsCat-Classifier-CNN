@@ -10,11 +10,17 @@ Datasets & Templates:
 # Dependencies
 
 Tensorflow 1.10
+
 Python 3.6
+
 Matplotlib
+
 Scikit-Learn
+
 Pandas
+
 Numpy
+
 Install dependencies using conda
 
 # Test Train Split
@@ -24,8 +30,11 @@ Image training set contain 10,000 images for each category. I split those into 8
 # Network Parameter:
 
 Rectifier Linear Unit
+
 Adam optimizer
+
 Sigmoid on Final output
+
 Binary CrossEntropy loss
 
 # Conclusion
